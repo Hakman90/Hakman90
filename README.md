@@ -16,8 +16,9 @@
   - [Automate EC2 with Lambda and Events](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📄 Certifications</h2>
  
- - [AWS Architect Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
- - [Professional Scrum Master](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ - [AWS Architect Associate](https://www.credly.com/badges/55343b07-2696-41d6-9b12-87c5abd16040/public_url)
+ - [AWS Practitioner](https://www.credly.com/badges/3c9def2c-003f-4532-98e6-66bf56203d88/public_url)
+ - [Professional Scrum Master](https://www.credly.com/badges/9b0834fe-3ded-4d91-b254-54d1a6056ade/public_url)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
