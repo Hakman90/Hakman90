@@ -2,7 +2,7 @@
 <h2>👨‍💻 AWS Architect Projects:</h2>
 
   - [Automation with Cloudformation](https://github.com/Hakman90/AutomationWithCloudformation/blob/main/README.md)
-  - [S3 Static Website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [S3 Static Website](https://github.com/Hakman90/S3StaticWebsite/blob/main/README.md)
   - [KMS Encryption](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Object Encryption and Role Sepration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Multi Region Access Points](https://github.com/joshmadakor1/Algorithms-Practice)
