@@ -6,7 +6,7 @@
   - [KMS Encryption](https://github.com/Hakman90/KMS-Custom-Encryption/blob/main/README.md)
   - [Multi Region Access Points](https://github.com/Hakman90/MultiRegionAccessPoints/blob/main/README.md)
   - [Custom VPC](https://github.com/Hakman90/CustomVPC/blob/main/README.md)
-  - [Creating an AMI](https://github.com/)
+  - [Creating an AMI](https://github.com/Hakman90/CreateAnAMI/blob/main/README.md)
   - [Deploying Container Using Fargate](https://github.com)
   - [Bootstrapping Wordpress Installation](https://github.com)
   - [Using the Cloudwatch Agent](https://github.com/)
