@@ -1,7 +1,7 @@
 <h1>Hello, I'm Hakeem! </h1>
 <h2>👨‍💻 AWS Architect Projects:</h2>
 
-  - [Automation with Cloudformation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automation with Cloudformation](https://github.com/Hakman90/AutomationWithCloudformation/blob/main/README.md)
   - [S3 Static Website](https://github.com/joshmadakor1/Algorithms-Practice)
   - [KMS Encryption](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Object Encryption and Role Sepration](https://github.com/joshmadakor1/Algorithms-Practice)
