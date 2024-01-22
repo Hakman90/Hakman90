@@ -3,7 +3,7 @@
 
   - [Automation with Cloudformation](https://github.com/Hakman90/AutomationWithCloudformation/blob/main/README.md)
   - [S3 Static Website](https://github.com/Hakman90/S3StaticWebsite/blob/main/README.md)
-  - [KMS Encryption](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [KMS Encryption](https://github.com/Hakman90/KMS-Custom-Encryption/blob/main/README.md)
   - [Object Encryption and Role Sepration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Multi Region Access Points](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Custom VPC](https://github.com/joshmadakor1/Algorithms-Practice)
