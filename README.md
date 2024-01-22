@@ -4,7 +4,7 @@
   - [Automation with Cloudformation](https://github.com/Hakman90/AutomationWithCloudformation/blob/main/README.md)
   - [S3 Static Website](https://github.com/Hakman90/S3StaticWebsite/blob/main/README.md)
   - [KMS Encryption](https://github.com/Hakman90/KMS-Custom-Encryption/blob/main/README.md)
-  - [Multi Region Access Points](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Multi Region Access Points](https://github.com/Hakman90/MultiRegionAccessPoints/blob/main/README.md)
   - [Custom VPC](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Creating an AMI](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Deploying Container Using Fargate](https://github.com/joshmadakor1/Algorithms-Practice)
